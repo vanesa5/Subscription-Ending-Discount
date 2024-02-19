@@ -1,0 +1,14 @@
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/bin/Debug/net8.0/TestProjet
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/bin/Debug/net8.0/TestProjet.deps.json
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/bin/Debug/net8.0/TestProjet.runtimeconfig.json
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/bin/Debug/net8.0/TestProjet.dll
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/bin/Debug/net8.0/TestProjet.pdb
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.AssemblyInfoInputs.cache
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.AssemblyInfo.cs
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.csproj.CoreCompileInputs.cache
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.dll
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/refint/TestProjet.dll
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.pdb
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/TestProjet.genruntimeconfig.cache
+/Users/vanesagarcia/CsharpSubcriptionProjects/TestProjet/obj/Debug/net8.0/ref/TestProjet.dll
